@@ -1,0 +1,5 @@
+- Implement in Python an API endpoint that fetches atmospheric measurements from the api.open-meteo.com service.
+
+- Add header comment to the file and add comments to the code.
+
+- Create readme, include the details how to install and run.

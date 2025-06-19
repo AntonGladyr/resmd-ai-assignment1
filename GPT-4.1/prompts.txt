@@ -1,0 +1,7 @@
+- Implement in Python an API endpoint that fetches atmospheric measurements from the api.open-meteo.com service.
+
+- @workspace /explain add header comment to the file and add comments to the code.
+
+- Add docstring.
+
+- #file:GPT-4.1 Add readme, include the details how to install and run.
